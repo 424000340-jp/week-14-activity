@@ -1,4 +1,3 @@
-/* Reset and General Styles */
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +11,7 @@ body {
     color: #333;
 }
 
-/* Navigation */
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -33,7 +32,7 @@ body {
     font-size: 0.9rem;
 }
 
-/* Hero Section */
+
 .hero {
     height: 60vh;
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), 
@@ -67,7 +66,7 @@ body {
     background: #2c974b;
 }
 
-/* Status Card */
+
 .status-section {
     padding: 50px 10%;
     display: flex;
