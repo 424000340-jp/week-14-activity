@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background: white;
+    padding: 50px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-top: 5px solid #2ea44f;
+}
+
+h1 {
+    color: #333;
+}
+
+.status-box {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e6ffed;
+    color: #22863a;
+    border-radius: 5px;
+    display: inline-block;
+}
